@@ -3,7 +3,7 @@
 ### Intelligent Lost & Found Automation System for Educational Institutions
 
 > **AI-powered Smart Automation for faster, smarter, and more reliable recovery of lost belongings on campus.**
-
+ 
 ---
 
 ## 📌 Overview
